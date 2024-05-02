@@ -4,10 +4,17 @@
 Hello👋 I'm Eman Ali Abbasi, a passionate software developer with a keen interest in web development and GenAI.
 
 ## Skills
-- Frontend Development: HTML, CSS, JavaScript, React
-- Backend Development: Node.js, Express, MongoDB
-- Machine Learning: Python, TensorFlow, Scikit-Learn
-- Other: Git, GitHub, Agile methodologies
+🔵 HTML
+🔵 CSS
+🔵 JavaScript
+🔵 Typescript 
+🔵 React 
+🔵 Nextjs 
+🔵 TailwindCSS
+🔵 Python
+🔵 SQL
+🔵 severless DB
+🔵 Git / Github
 
 ## Contact Me
 - Email: [emanaliabbasi31@gmail.com](mailto:emanaliabbasi31@gmail.com)
