@@ -11,6 +11,9 @@ Hello👋 I'm Eman Ali Abbasi, a passionate software developer with a keen inter
 - React 
 - Nextjs 
 - TailwindCSS
+- Sanity.io
+- severless Databases
+- Sql
 - Python
 - SQL
 - severless DB
