@@ -25,6 +25,4 @@ Hello👋 I'm Eman Ali Abbasi, a passionate software developer with a keen inter
 - LinkedIn: [Eman Ali Abbasi](https://www.linkedin.com/in/eman-ali-abbasi-937932237/)
 - Website: [My Portfolio Website](https://emaanabbasi-portfolio.vercel.app/)
 
-## Fun Fact
-I love experimenting with new recipes and trying out different cuisines from around the world!
 
