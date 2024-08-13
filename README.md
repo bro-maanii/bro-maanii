@@ -13,7 +13,8 @@ Hello👋 I'm Eman Ali Abbasi, a passionate software developer with a keen inter
 - JavaScript
 - Typescript 
 - React 
-- Nextjs 
+- Nextjs
+- 
 - TailwindCSS
 - Sanity.io
 - severless Databases
