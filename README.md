@@ -3,7 +3,12 @@
 ## About Me
 
 Hello👋 I'm Eman Ali Abbasi, a passionate software developer with a keen interest in web development and GenAI.
+- 🌱 I’m currently learning **Python and GenAI**
+- 💬 Ask me about **Nextjs , Frontend ,Backend ,FastAPI , Streamlit and chatbots with openAI Api key**
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=bro-maanii)](https://git.io/streak-stats)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bro-maanii&show_icons=true&locale=en&layout=compact" alt="bro-maanii" /></p>
 
 ## Skills
 
