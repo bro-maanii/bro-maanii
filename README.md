@@ -18,14 +18,13 @@ Hello👋 I'm Eman Ali Abbasi, a passionate software developer with a keen inter
 - Typescript 
 - React 
 - Nextjs
+- MongoDB
 - FastApi
 - TailwindCSS
 - Sanity.io
-- severless Databases
-- Sql
+- Severless Databases
 - Python
 - SQL
-- severless DB
 - Git / Github
 
 ## Contact Me
