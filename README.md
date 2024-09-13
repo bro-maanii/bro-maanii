@@ -1,4 +1,3 @@
-## ....
 ## Eman Ali Abbasi! 👋
 
 ## About Me
