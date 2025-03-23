@@ -8,10 +8,6 @@ Hello👋, I'm Eman Ali Abbasi, a passionate software developer with a keen inte
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bro-maanii)](https://git.io/streak-stats)
-
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bro-maanii&show_icons=true&locale=en&layout=compact" alt="bro-maanii" /></p>
 
 #### Skills
