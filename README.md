@@ -30,7 +30,7 @@ Hello👋, I'm Eman Ali Abbasi, a passionate software developer with a keen inte
 - SQL
 - Git / Github
 
-Contact Me
+Contact Me:
 
 - Email: [emanaliabbasi31@gmail.com](mailto:emanaliabbasi31@gmail.com)
 - LinkedIn: [Eman Ali Abbasi](https://www.linkedin.com/in/eman-ali-abbasi-937932237/)
