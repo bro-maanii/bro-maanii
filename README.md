@@ -2,6 +2,7 @@
 
 Hello👋, I'm Eman Ali Abbasi, a passionate software developer with a keen interest in web development and GenAI.
 - 🌱 I’m currently learning **Python and GenAI**
+  
 - 💬 Ask me about **Nextjs , Frontend ,Backend ,FastAPI , Streamlit and chatbots with openAI Api key**
 
 
